@@ -59,7 +59,7 @@ export default function Home({
       </Marquee>
       <Hero
         headline=" Sales Engineering."
-        description="Sales Engineers are the most amazing people in the universe! "
+        description="Sales Engineers is fabulous! "
       />
       <Grid layout="B" variant="filled">
         {products.slice(0, 3).map((product: any, i: number) => (
